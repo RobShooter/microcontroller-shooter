@@ -1,4 +1,4 @@
-package de.thi.microcontroller.web.domain;
+package de.thi.microcontroller.domain;
 
 
 import java.io.Serializable;
