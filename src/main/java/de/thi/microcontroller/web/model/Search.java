@@ -1,4 +1,6 @@
 package de.thi.microcontroller.web.model;
 
-public class Search {
+import java.io.Serializable;
+
+public class Search implements Serializable {
 }
